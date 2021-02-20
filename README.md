@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m planning to create a mega project.
-- 🥅 202 Goals: Learn React Js and Node JS.
+- 🥅 2021 Goals: Learn React Js and Node JS.
 - ⚡ Fun fact: I love to play video games.
 
 
