@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m planning to do nothing 🤣
 - 🥅 2021 Goals: Learn React Js and Node JS.
-- ⚡ Fun fact: I love to play video games.
+- ⚡ Fun fact:♥play video games.
 
 
 
