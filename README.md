@@ -1,7 +1,7 @@
 ### Hi there, I'm Royal 👋
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently doing python 100  days of code challange 🤣
 - 👯 I’m planning to do nothing 🤣
 - 🥅 2021 Goals: Learn React Js and Node JS.
 - ⚡ Fun fact:♥play video games.
