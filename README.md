@@ -43,7 +43,7 @@
 
 
 
-[twitter]: https://twitter.com/home
-[instagram]: https://www.instagram.com/
+[twitter]: https://twitter.com/RoyalThapa8
+[instagram]: https://www.instagram.com/_thapa_royal/
 [linkedin]: https://www.linkedin.com/in/thapa-royal-940019207/
-[facebook]: https://www.facebook.com/
+[facebook]: https://www.facebook.com/thapa.royal.988
