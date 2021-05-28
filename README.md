@@ -46,7 +46,7 @@
 
   <br/>
     <a href="https://github.com/thapaRoyal/github-readme-stats"><img alt="Royal Thapa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thapaRoyal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/thapaRoyal/github-readme-stats"><img alt="Thapa Royal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapaRoyal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -56,7 +56,7 @@
 
 
 <p align="center">
-<a href="https://github.com/thapaRoyal/github-readme-activity-graph">
+<a href="https://github.com//github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=thapaRoyal&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
