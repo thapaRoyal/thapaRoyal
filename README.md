@@ -31,6 +31,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/figma.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"><img src="https://img.icons8.com/color/50/000000/material-ui.png"/> </a>
    
    
    
