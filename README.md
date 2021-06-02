@@ -32,7 +32,7 @@
     <a href="https://figma.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/figma.png"/> </a>
     <a href="https://material-ui.com" target="_blank"><img src="https://img.icons8.com/color/50/000000/material-ui.png"/> </a>
     <a href="https://sass-lang.com" target="_blank"><img src="https://img.icons8.com/color/50/000000/sass.png"/> </a>
-    <a href="https://tailwindcss.com" target="_blank"><img src="https://miro.medium.com/max/50/1*5QD8DKhOjRe-gcYjozlLNQ.png"/> </a>
+    <a href="https://tailwindcss.com" target="_blank"><img alt="Tailwind CSS" width="50" src="https://github.com/aniftyco/awesome-tailwindcss/raw/master/assets/logo.svg"> </a>
 
    
    
