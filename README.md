@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning **Next JS**
-- 
+
 - 🌱 I’m currently working on **Netflix Clone**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
