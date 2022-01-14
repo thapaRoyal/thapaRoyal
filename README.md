@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Node JS**
 
 - 🌱 I’m currently working on **WebRTC VoiceChat**
 
