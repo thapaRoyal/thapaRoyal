@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 🌱 I’m currently working on **microservices with node and react**
+- 🌱 I’m currently working on **Blog App**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
 
