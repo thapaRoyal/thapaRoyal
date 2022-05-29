@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 🌱 I’m currently working on **Code Sync (Realtime code editor)**
 
