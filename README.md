@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 🌱 I’m currently working on **Code Sync (Realtime code editor)**
+- 🌱 I’m currently working on **Reddit Clone**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
 
