@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Royal</h1>
+<h1 align="center">Hi ,👋 I'm Royal</h1>
 <h3 align="center">LEARNING WEB AND NATIVE APP DEVLOPMENT</h3>
 
 
