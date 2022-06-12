@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **PYTHON**
 
 - 🌱 I’m currently working on **Facebook Clone**
 
