@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 🌱 I’m currently working on **Facebook Clone**
+- 🌱 I’m currently working on **NOTHING**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
 
