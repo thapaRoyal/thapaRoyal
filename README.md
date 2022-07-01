@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **NODE JS**
 
 - 🌱 I’m currently working on **MERN Ecommerce**
 
