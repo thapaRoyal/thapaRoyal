@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **NODE JS**
+- 🌱 I’m currently learning **React Native**
 
 - 🌱 I’m currently working on **Pinterest Clone**
 
