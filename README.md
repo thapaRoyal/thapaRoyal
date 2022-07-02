@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NODE JS**
 
-- 🌱 I’m currently working on **MERN Ecommerce**
+- 🌱 I’m currently working on **Pinterest Clone**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
 
