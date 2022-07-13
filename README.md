@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🌱 I’m currently working on **Pinterest Clone**
+- 🌱 I’m currently working on **UberEats Clone**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
 
