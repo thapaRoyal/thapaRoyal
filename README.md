@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨🏽‍💻 I’m currently working on **car rental**
+- 👨🏽‍💻 I’m currently working on **Blog App**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
 
