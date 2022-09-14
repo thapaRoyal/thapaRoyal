@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨🏽‍💻 I’m currently working on **Blog App**
 
