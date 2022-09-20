@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨🏽‍💻 I’m currently working on **Blog App**
+- 👨🏽‍💻 I’m currently working on **Facebook Clone**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
 
