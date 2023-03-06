@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨🏽‍💻 I’m currently working on **?**
+- 👨🏽‍💻 I’m currently working on **NodeJS Microservices App**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
 
