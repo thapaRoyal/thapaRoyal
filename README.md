@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi ,👋 I'm Royal</h1>
-<h3 align="center">LEARNING WEB AND NATIVE APP DEVLOPMENT</h3>
+<h3 align="center">LEARNING FULLSTACK DEVELOPMENT</h3>
 
 
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **GOLANG**
 
-- 👨🏽‍💻 I’m currently working on **NodeJS Microservices App**
+- 👨🏽‍💻 I’m currently working on **GO ECOMMERCE**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
 
