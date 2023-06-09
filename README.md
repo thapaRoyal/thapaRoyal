@@ -6,9 +6,9 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **GOLANG**
+- 🌱 I’m currently learning ****
 
-- 👨🏽‍💻 I’m currently working on **GO ECOMMERCE**
+- 👨🏽‍💻 I’m currently working on ** **
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/thapaRoyal?tab=repositories)**
 
